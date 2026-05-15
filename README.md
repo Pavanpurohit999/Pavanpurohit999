@@ -1,133 +1,39 @@
-<h1 align="center">Hi 👋, I'm Pavan Purohit</h1>
+<h1 align="center">Hi 👋, I'm Pavan purohit</h1>
+<h3 align="center">A passionate Full Stack & Backend Developer from India</h3>
 
-<h3 align="center">
-Full Stack Developer • B.Tech IT Student • Backend Enthusiast
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpurohit999&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpurohit999" /> </p>
 
-<p align="center">
-Passionate about building scalable web applications, backend systems, and solving real-world problems through code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanpurohit999" alt="pavanpurohit999" /></a> </p>
+
+- 🔭 I’m currently working on [Ecofinds - Circular Economy Platform](https://github.com/Pavanpurohit999/Ecofinds-MajorProject)
+
+- 🌱 I’m currently learning **Advanced Backend Development, Docker, Redis, System Design & DevOps**
+
+- 👯 I’m looking to collaborate on **Real-time Full Stack Applications**
+
+- 🤝 I’m looking for help with **Scalable Backend Architecture & DevOps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Pavanpurohit999](https://github.com/Pavanpurohit999)
+
+- 💬 Ask me about **Node.js, Express.js, React, MongoDB, WebSockets & Backend Development**
+
+- 📫 How to reach me **pavanpurohit764@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xtCPjfZqQaS14wrYhB0vho5ayMjHwmHX/view?usp=drive_link](https://drive.google.com/file/d/1xtCPjfZqQaS14wrYhB0vho5ayMjHwmHX/view?usp=drive_link)
+
+- ⚡ Fun fact **I love building projects more than watching tutorials 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pavanpurohit09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavanpurohit09" height="30" width="40" /></a>
+<a href="https://instagram.com/just_pavan999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_pavan999" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/pavan-purohit09">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  <a href="https://github.com/Pavanpurohit999">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpurohit999&show_icons=true&locale=en&layout=compact" alt="pavanpurohit999" /></p>
 
-  <a href="mailto:pavanpurohit764@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpurohit999&show_icons=true&locale=en" alt="pavanpurohit999" /></p>
 
----
-
-# 🚀 About Me
-
-- 🌱 Currently learning Advanced Backend Development & DevOps
-- 💻 Building Full Stack & Real-Time Applications
-- ⚡ Interested in Backend Engineering & Scalable Systems
-- 🚀 Love building projects and learning by doing
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,postman" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavanpurohit999&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavanpurohit999&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pavanpurohit999&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavanpurohit999&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavanpurohit999&theme=tokyonight" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Ecofinds - Circular Economy Platform
-
-- Real-time chat with seller
-- Product listing & image uploads
-- Authentication & authorization
-- Sustainable buying/selling platform
-
-⭐ Repository:  
-https://github.com/Pavanpurohit999/Ecofinds-MajorProject
-
----
-
-## 🎨 SketchSync
-
-- Real-time collaborative drawing app
-- WebSocket based syncing
-- Multi-user collaboration
-
-⭐ Repository:  
-https://github.com/Pavanpurohit999/SketchSync
-
----
-
-## 🔐 File Integrity Chain
-
-- Blockchain based document verification
-- Ethereum smart contract integration
-- Tamper-proof file validation
-
-⭐ Repository:  
-https://github.com/Pavanpurohit999/File-Integrity-Chain
-
----
-
-## 🧠 Second Brain
-
-- Productivity & knowledge management app
-- Store and organize notes efficiently
-- Clean and minimal UI
-
-⭐ Repository:  
-https://github.com/Pavanpurohit999/Second-Brain
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/pavan-purohit09">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Pavanpurohit999">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:pavanpurohit764@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-✨ Code • Learn • Build • Repeat ✨
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanpurohit999&" alt="pavanpurohit999" /></p>
