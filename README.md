@@ -5,7 +5,7 @@ Full Stack Developer • B.Tech IT Student • Backend Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications and scalable backend systems.
+Passionate about building scalable web applications, backend systems, and solving real-world problems through code.
 </p>
 
 <p align="center">
@@ -22,17 +22,17 @@ Passionate about building scalable web applications and scalable backend systems
 
 # 🚀 About Me
 
-- 🌱 Learning Advanced Backend & DevOps
-- 💻 Building Full Stack Applications
-- ⚡ Interested in Scalable Systems
-- 🚀 Love building real-world projects
+- 🌱 Currently learning Advanced Backend Development & DevOps
+- 💻 Building Full Stack & Real-Time Applications
+- ⚡ Interested in Backend Engineering & Scalable Systems
+- 🚀 Love building projects and learning by doing
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode,postman" />
 </p>
 
 ---
@@ -41,22 +41,25 @@ Passionate about building scalable web applications and scalable backend systems
 
 <p align="center">
 
-<img 
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=github_dark&hide_border=true"
 />
 
-<img 
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=github_dark&hide_border=true"
 />
 
 </p>
 
 <p align="center">
-<img 
-src="https://github-readme-streak-stats.herokuapp.com?user=Pavanpurohit999&theme=tokyonight&hide_border=true"
+
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blue&hide_border=true"
 />
+
 </p>
 
 ---
@@ -71,11 +74,11 @@ src="https://github-readme-streak-stats.herokuapp.com?user=Pavanpurohit999&theme
 - Sustainable buying/selling platform
 
 <p align="center">
-<a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=tokyonight&hide_border=true"
-/>
-</a>
+  <a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=github_dark&hide_border=true"
+    />
+  </a>
 </p>
 
 ---
@@ -85,29 +88,31 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&re
 - Real-time collaborative drawing app
 - WebSocket based syncing
 - Multi-user collaboration
+- Canvas rendering system
 
 <p align="center">
-<a href="https://github.com/Pavanpurohit999/SketchSync">
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=tokyonight&hide_border=true"
-/>
-</a>
+  <a href="https://github.com/Pavanpurohit999/SketchSync">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=github_dark&hide_border=true"
+    />
+  </a>
 </p>
 
 ---
 
 ## 🔐 File Integrity Chain
 
-- Blockchain based file verification
+- Blockchain based document verification
 - Ethereum smart contract integration
-- Tamper-proof document validation
+- Tamper-proof file validation
+- Secure hash verification system
 
 <p align="center">
-<a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=tokyonight&hide_border=true"
-/>
-</a>
+  <a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=github_dark&hide_border=true"
+    />
+  </a>
 </p>
 
 ---
@@ -116,14 +121,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&re
 
 - Productivity & knowledge management app
 - Store and organize notes efficiently
+- Modern full stack architecture
 - Clean and minimal UI
 
 <p align="center">
-<a href="https://github.com/Pavanpurohit999/Second-Brain">
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=tokyonight&hide_border=true"
-/>
-</a>
+  <a href="https://github.com/Pavanpurohit999/Second-Brain">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=github_dark&hide_border=true"
+    />
+  </a>
 </p>
 
 ---
