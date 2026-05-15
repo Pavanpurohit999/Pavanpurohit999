@@ -44,15 +44,19 @@ Passionate about building scalable web applications, backend systems, and solvin
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavanpurohit999&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pavanpurohit999&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavanpurohit999&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pavanpurohit999&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavanpurohit999&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavanpurohit999&theme=tokyonight" />
 </p>
 
 ---
@@ -66,11 +70,8 @@ Passionate about building scalable web applications, backend systems, and solvin
 - Authentication & authorization
 - Sustainable buying/selling platform
 
-<p align="center">
-  <a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+⭐ Repository:  
+https://github.com/Pavanpurohit999/Ecofinds-MajorProject
 
 ---
 
@@ -80,11 +81,8 @@ Passionate about building scalable web applications, backend systems, and solvin
 - WebSocket based syncing
 - Multi-user collaboration
 
-<p align="center">
-  <a href="https://github.com/Pavanpurohit999/SketchSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+⭐ Repository:  
+https://github.com/Pavanpurohit999/SketchSync
 
 ---
 
@@ -94,11 +92,8 @@ Passionate about building scalable web applications, backend systems, and solvin
 - Ethereum smart contract integration
 - Tamper-proof file validation
 
-<p align="center">
-  <a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+⭐ Repository:  
+https://github.com/Pavanpurohit999/File-Integrity-Chain
 
 ---
 
@@ -108,11 +103,8 @@ Passionate about building scalable web applications, backend systems, and solvin
 - Store and organize notes efficiently
 - Clean and minimal UI
 
-<p align="center">
-  <a href="https://github.com/Pavanpurohit999/Second-Brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+⭐ Repository:  
+https://github.com/Pavanpurohit999/Second-Brain
 
 ---
 
