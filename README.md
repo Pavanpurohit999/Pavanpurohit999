@@ -16,6 +16,10 @@ Passionate about building scalable web applications, backend systems, and solvin
   <a href="https://github.com/Pavanpurohit999">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="mailto:pavanpurohit764@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -40,26 +44,15 @@ Passionate about building scalable web applications, backend systems, and solvin
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=github_dark&hide_border=true"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pavanpurohit999&theme=tokyonight&hide_border=true" />
+</p>
 
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blue&hide_border=true"
-/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,9 +68,7 @@ src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blu
 
 <p align="center">
   <a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=github_dark&hide_border=true"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -88,13 +79,10 @@ src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blu
 - Real-time collaborative drawing app
 - WebSocket based syncing
 - Multi-user collaboration
-- Canvas rendering system
 
 <p align="center">
   <a href="https://github.com/Pavanpurohit999/SketchSync">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=github_dark&hide_border=true"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -105,13 +93,10 @@ src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blu
 - Blockchain based document verification
 - Ethereum smart contract integration
 - Tamper-proof file validation
-- Secure hash verification system
 
 <p align="center">
   <a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=github_dark&hide_border=true"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -121,14 +106,11 @@ src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blu
 
 - Productivity & knowledge management app
 - Store and organize notes efficiently
-- Modern full stack architecture
 - Clean and minimal UI
 
 <p align="center">
   <a href="https://github.com/Pavanpurohit999/Second-Brain">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=github_dark&hide_border=true"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -146,7 +128,7 @@ src="https://streak-stats.demolab.com?user=Pavanpurohit999&theme=github-dark-blu
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pavanpurohit764@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
