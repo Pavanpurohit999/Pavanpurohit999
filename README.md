@@ -5,14 +5,10 @@ Full Stack Developer • B.Tech IT Student • Backend Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, backend systems, and solving real-world problems through code.
+Passionate about building scalable web applications and scalable backend systems.
 </p>
 
 <p align="center">
-  <a href="mailto:pavanpurohit764@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
   <a href="https://linkedin.com/in/pavan-purohit09">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,34 +22,17 @@ Passionate about building scalable web applications, backend systems, and solvin
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Advanced Backend Development & DevOps**
-- 💻 Building **Full Stack & Real-Time Applications**
-- ⚡ Interested in **Backend Engineering, Scalable Systems & AI**
-- 🎯 Goal: Become a strong Backend Developer
-- 🚀 Love building projects and learning by doing
+- 🌱 Learning Advanced Backend & DevOps
+- 💻 Building Full Stack Applications
+- ⚡ Interested in Scalable Systems
+- 🚀 Love building real-world projects
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode" />
 </p>
 
 ---
@@ -63,26 +42,20 @@ Passionate about building scalable web applications, backend systems, and solvin
 <p align="center">
 
 <img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=Pavanpurohit999&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
 
 <img 
-height="170" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=tokyonight&hide_border=true" 
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpurohit999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
 
 </p>
 
 <p align="center">
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Pavanpurohit999&theme=tokyonight&hide_border=true" 
-/>
-</p>
-
-<p align="center">
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit999&theme=tokyo-night&hide_border=true" 
+src="https://github-readme-streak-stats.herokuapp.com?user=Pavanpurohit999&theme=tokyonight&hide_border=true"
 />
 </p>
 
@@ -93,15 +66,16 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit
 ## 🛒 Ecofinds - Circular Economy Platform
 
 - Real-time chat with seller
-- Notification system
 - Product listing & image uploads
 - Authentication & authorization
 - Sustainable buying/selling platform
 
 <p align="center">
-  <a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/Pavanpurohit999/Ecofinds-MajorProject">
+<img 
+src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Ecofinds-MajorProject&theme=tokyonight&hide_border=true"
+/>
+</a>
 </p>
 
 ---
@@ -111,27 +85,29 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit
 - Real-time collaborative drawing app
 - WebSocket based syncing
 - Multi-user collaboration
-- Canvas rendering system
 
 <p align="center">
-  <a href="https://github.com/Pavanpurohit999/SketchSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/Pavanpurohit999/SketchSync">
+<img 
+src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=SketchSync&theme=tokyonight&hide_border=true"
+/>
+</a>
 </p>
 
 ---
 
 ## 🔐 File Integrity Chain
 
-- Blockchain based file verification system
+- Blockchain based file verification
 - Ethereum smart contract integration
 - Tamper-proof document validation
-- Secure hash-based verification
 
 <p align="center">
-  <a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/Pavanpurohit999/File-Integrity-Chain">
+<img 
+src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=File-Integrity-Chain&theme=tokyonight&hide_border=true"
+/>
+</a>
 </p>
 
 ---
@@ -140,13 +116,14 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit
 
 - Productivity & knowledge management app
 - Store and organize notes efficiently
-- Modern full stack architecture
 - Clean and minimal UI
 
 <p align="center">
-  <a href="https://github.com/Pavanpurohit999/Second-Brain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/Pavanpurohit999/Second-Brain">
+<img 
+src="https://github-readme-stats.vercel.app/api/pin/?username=Pavanpurohit999&repo=Second-Brain&theme=tokyonight&hide_border=true"
+/>
+</a>
 </p>
 
 ---
@@ -163,7 +140,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:pavanpurohit764@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -172,5 +149,5 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pavanpurohit
 ---
 
 <p align="center">
-  ✨ Code • Learn • Build • Repeat ✨
+✨ Code • Learn • Build • Repeat ✨
 </p>
